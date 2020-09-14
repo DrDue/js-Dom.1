@@ -7,7 +7,7 @@ let flip;
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -18,7 +18,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -28,7 +28,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -38,7 +38,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -48,7 +48,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -58,7 +58,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -68,7 +68,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -78,7 +78,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -88,7 +88,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
@@ -98,7 +98,7 @@ switch ( flip ) {
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
-  case 1:
+  default:
     tails++;
     break;
   case 2:
