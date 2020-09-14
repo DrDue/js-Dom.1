@@ -25,6 +25,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -35,6 +36,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -45,6 +47,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -55,6 +58,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -65,6 +69,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -75,6 +80,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -85,6 +91,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -95,6 +102,7 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 flip = Math.random();
 flip = Math.floor( flip * 2 + 1 );
 switch ( flip ) {
@@ -105,5 +113,6 @@ switch ( flip ) {
     heads++;
     break;
 }
+
 console.log( 'heads: ' + heads );
 console.log( 'tails: ' + tails );
